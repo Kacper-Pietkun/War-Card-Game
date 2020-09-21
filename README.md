@@ -45,7 +45,7 @@ In wise war first player plays his first card just like in standard war game, bu
 	- Furious: Player always chooses card which will cause war. If it is not possible then he plays a weaker card
 	- Peaceful: Player always avoids war. Player always try to play his weaker card
 
-### Experiments
+#### Experiments
 Program lets you carry out four experiments
 - 1st experiment
 	- Program writes to file average number of rounds in standard war game based on 1000 games. User can choose size of the deck.
