@@ -12,13 +12,13 @@
 
 ## Visuals
 
-**Menu**
+### Menu
 ![menu](images/main_menu.jpg)
 
-**Standard War**
+### Standard War
 ![standard war](images/standard_war.jpg)
 
-**Wise War**
+### Wise War
 ![wise war](images/wise_war.jpg)
 
 
