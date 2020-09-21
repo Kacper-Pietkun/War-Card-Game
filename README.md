@@ -16,10 +16,10 @@
 ![menu](images/main_menu.jpg)
 
 **Standard War**
-![menu](images/standard_war.jpg)
+![standard war](images/standard_war.jpg)
 
 **Wise War**
-![menu](images/wise_war.jpg)
+![wise war](images/wise_war.jpg)
 
 
 ## Description
